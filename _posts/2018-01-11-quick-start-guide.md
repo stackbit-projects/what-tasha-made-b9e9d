@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Let's test spoilers
-author: sal
+author: Tasha
 categories:
   - Jekyll
   - tutorial
